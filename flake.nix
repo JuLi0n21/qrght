@@ -14,8 +14,7 @@
         packages = with pkgs; [
           go_1_26
 
-          nodejs_25
-          nodePackages.npm
+          nodejs_26
         ];
       };
     };
